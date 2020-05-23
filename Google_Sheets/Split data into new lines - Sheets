@@ -1,7 +1,7 @@
 function result(range) {
   var output2 = [];
   for(var i=0, iLen=range.length; i<iLen; i++) {
-    var s = range[i][2].split(",");//range[i][2] third column
+    var s = range[i][2].split(","); //range[i][2] third column
     for(var j=0, jLen=s.length; j<jLen; j++) {
       var output1 = [];
       for(var k=0, kLen=range[0].length; k<kLen; k++) {
