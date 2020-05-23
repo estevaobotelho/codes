@@ -12,6 +12,6 @@ log10_murders <- log10(total_gun_murders)
 
 plot(log10_pop, log10_murders)
 
-#hist(murders$rate)
+hist(murders$rate)
 
-#boxplot(rate~region, data = murders)
+boxplot(rate~region, data = murders)
