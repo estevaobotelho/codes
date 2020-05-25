@@ -1,4 +1,4 @@
-x <- c(1, "canada", 3)
+x <- c(1, "brazil", 3)
 x
 
 class(x)#character
