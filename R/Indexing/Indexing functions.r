@@ -12,7 +12,7 @@ murder_rate[index]
 
 index
 
-murder_rate[index]
+murder_rate[index] 
 
 #Is Boston, Dakota and Washington states?
 c("Boston", "Dakota", "Washington") %in% murders$state
